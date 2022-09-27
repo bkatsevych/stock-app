@@ -1,6 +1,6 @@
 import React from "react";
 import Autocomplete from "../components/Autocomplete";
-import StockList from "../components/Stocklist";
+import StockList from "../components/StockList";
 
 const StockOverviewPage = () => {
     return (

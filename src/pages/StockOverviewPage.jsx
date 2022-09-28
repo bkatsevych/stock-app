@@ -5,7 +5,7 @@ import StockList from "../components/StockList";
 const StockOverviewPage = () => {
     return (
         <div>
-            I am a StockOverviewPage
+            I am the StockOverviewPage
             <Autocomplete />
             <StockList />
         </div>

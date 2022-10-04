@@ -1,8 +1,6 @@
 ### How to launch
 
-The project is powered by [Vite](https://vitejs.dev/guide/), thus in order to start it up you need to run these commands in your terminal after cloning the repo:
-`npm install`
-`npm run dev`
+The project is powered by [Vite](https://vitejs.dev/guide/), thus in order to start it up you need to run these commands in your terminal after cloning the repo: -`npm install` -`npm run dev`
 
 ### Assets
 

@@ -7,7 +7,7 @@ The project is powered by [Vite](https://vitejs.dev/guide/), thus in order to st
 
 ### Assets
 
--   [Finnhub Stock API](https://finnhub.io/) - Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto.\
+-   [Finnhub Stock API](https://finnhub.io/) - Real-Time RESTful APIs and Websocket for Stocks, Currencies, and Crypto.
 
 
 ### Personal notes dedicated to this project
